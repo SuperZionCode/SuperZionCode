@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuperZionCode
-- 👀 I’m interested in Javascript, Node, React, Game Maker, Servers
-- 🌱 More about React
+- 👀 I’m interested starting a developer career. I want to learn as much as I can!
+- 🌱 I am confident using javascript, react and node.js to build a website and server.
 - 💞️ I'm looking for a trainee Web Developer Job
 - 📫 How to reach me: tel: 07429141000. Email: isaac.osterreicher@gmail.com
